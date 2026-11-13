@@ -2,10 +2,6 @@
 
 🚀 **Computer Engineering & AI/ML Student | Aspiring ML Engineer & Web Developer**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nandanipatil&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ### 💻 Tech Stack & Tools
