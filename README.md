@@ -23,10 +23,9 @@
 
 ### 📊 GitHub Stats & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandanipatil&show_icons=true&theme=radical&hide_border=true" alt="Nandani's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanipatil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+[![Nandani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandanipatil&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandanipatil&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandani-patil-b12368305)
